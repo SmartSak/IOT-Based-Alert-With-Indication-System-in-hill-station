@@ -1,0 +1,12 @@
+step1:
+    conneting the power supply in circut.
+step2:
+    microcontroller trun on sensors doing to proces.
+step3:
+    IR sensor will be dectecting object.
+step4:
+    alert and indicating to vehicle.
+step5:
+    PIR sensor will be moment decting.
+step6:
+    smart LED lignt will be trun on.
